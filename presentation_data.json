@@ -1,0 +1,22 @@
+{
+    "name": "Tristan Robert Jackson",
+    "netlify_subdomain": "robert-jackson.netlify.com",
+    "optional_dns": "",
+    "blog_post_1": {
+        "title": "Starter Pack: Tools to Get Started in Data Science",
+        "url": "https://medium.com/@t7jackso/starter-pack-tools-to-get-started-in-data-science-c793da219d83",
+        "keywords": ["Data Science","Math","Programming"]
+    },
+    "blog_post_2": {
+        "title": "IN PROGRESS",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "blog_post_3": {
+        "title": "IN PROGRESS",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "my_linkedin": "https://www.linkedin.com/in/robert-jackson-72a81b100/",
+    "latex": " https://www.overleaf.com/read/ffysppbfvvzr                ",
+}
