@@ -1,0 +1,5 @@
+{
+    "url": "https://robert-jackson.netlify.com/machine-learning-framework.json",
+    "objectives": ["Parameters vs Hyperameters", "Random Forests", "SK Cross Validation", "Grid Search", "Identify Hyperparameter"]
+    "keywords": ["Parameterization", "Decision Tree", "Random Forest", "Hyperparameter", "Machine Learning"]
+}
