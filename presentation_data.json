@@ -8,14 +8,14 @@
         "keywords": ["Data Science","Math","Programming"]
     },
     "blog_post_2": {
-        "title": "IN PROGRESS",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "Python v. R: The Case for Python Supremacy in Data Science",
+        "url": "https://medium.com/@t7jackso/python-v-r-the-case-for-python-supremacy-in-data-science-83fb2fec4255",
+        "keywords": ["Data Science","Pythono","R"]
     },
     "blog_post_3": {
-        "title": "IN PROGRESS",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "5 Basics of Machine Learning to Know:",
+        "url": "https://medium.com/@t7jackso/5-basics-of-machine-learning-to-know-35432d79444c",
+        "keywords": ["Machine Learning","Parameterazation","Random Forests"]
     },
     "my_linkedin": "https://www.linkedin.com/in/robert-jackson-72a81b100/",
     "latex": " https://www.overleaf.com/read/ffysppbfvvzr                ",
